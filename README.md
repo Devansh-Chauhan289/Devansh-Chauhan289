@@ -4,7 +4,7 @@ I’m a versatile developer with experience in both frontend and backend technol
 
 - 🔭 Learning stuff to become a great Full Stack Web Developer
 - Proficient in React.js, Node.js, HTML, CSS, and Python
-- 💬 You can reach out to me through : [Mail me](mailto:chauhanmansi628@gmail.com?) | [Linkedin](https://www.linkedin.com/in/devansh-chauhan-827b42247/)
+- 💬 You can reach out to me through : [Mail me](mailto:chauhanmansi628@gmail.com?) | [Linkedin](to:https://www.linkedin.com/in/devansh-chauhan-827b42247/)
   
 <!--
 **Devansh-Chauhan289/Devansh-Chauhan289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
