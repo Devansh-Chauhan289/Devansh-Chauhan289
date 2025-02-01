@@ -1,4 +1,4 @@
-HEY! , :wave: I'M DEVANSH CHAUHAN 
+HEY :exclamation:, :wave: I'M DEVANSH CHAUHAN 
 
 I’m a versatile developer with experience in both frontend and backend technologies. I thrive on solving challenging problems and am constantly learning new things to become a great full-stack developer :blush:. Currently, I’m deepening my skills in stack development at Masai School.
 
