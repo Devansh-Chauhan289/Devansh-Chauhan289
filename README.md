@@ -1,10 +1,10 @@
-HEY EVERYONE :wave: I AM DEVANSH CHAUHAN 
+HEY! , :wave: I'M DEVANSH CHAUHAN 
 
-I am a versatile developer, who knows about both frontend and backend. I like solving the problems that others may found challenging. Currently I am learning more about stack development at Masai School.
-And I hope to become a great developer :blush:
+I’m a versatile developer with experience in both frontend and backend technologies. I thrive on solving challenging problems and am constantly learning new things to become a great full-stack developer :blush:. Currently, I’m deepening my skills in stack development at Masai School.
 
 - 🔭 Learning stuff to become a great Full Stack Web Developer
-- I know about React js, Node js, HTML, CSS, Python
+- Proficient in React.js, Node.js, HTML, CSS, and Python
+- 💬 You can reach out to me through : [Gmail](chauhanmansi628@gmail.com) | [Linkedin](https://www.linkedin.com/in/devansh-chauhan-827b42247/)
   
 <!--
 **Devansh-Chauhan289/Devansh-Chauhan289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+-  Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
