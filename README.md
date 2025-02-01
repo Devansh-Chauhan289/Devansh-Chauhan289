@@ -3,7 +3,7 @@ HEY EVERYONE :wave: I AM DEVANSH CHAUHAN
 I am a versatile developer, who knows about both frontend and backend. I like solving the problems that others may found challenging. Currently I am learning more about stack development at Masai School.
 And I hope to become a great developer :blush:
 
-- 🔭 I’m currently learning stuff to become a great Full Stack Web Developer
+- 🔭 Learning stuff to become a great Full Stack Web Developer
 - I know about React js, Node js, HTML, CSS, Python
   
 <!--
