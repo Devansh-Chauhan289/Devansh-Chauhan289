@@ -8,7 +8,7 @@ I’m a versatile developer with experience in both frontend and backend technol
 
 Tech Stacks:
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,vscode,python,express,mongodb,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,vscode,python,express,mongodb,github,mysql,aws)](https://skillicons.dev)
 
 
 <!--
