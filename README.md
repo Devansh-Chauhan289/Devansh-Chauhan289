@@ -4,7 +4,7 @@ I’m a versatile developer with experience in both frontend and backend technol
 
 - 🔭 Learning stuff to become a great Full Stack Web Developer
 - ⚡Proficient in React.js, Node.js, HTML, CSS, and Python
-- 💬 You can reach out to me through : [Mail me](mailto:chauhanmansi628@gmail.com?) | <a href="https://www.linkedin.com/in/devansh-chauhan-827b42247" target="_blank">Linkedin</a>
+- 💬 You can reach out to me through : [Mail me](mailto:devanshchauhan2306@gmail.com?) | <a href="https://www.linkedin.com/in/devansh-chauhan-827b42247" target="_blank">Linkedin</a>
 
 Tech Stacks:
   
